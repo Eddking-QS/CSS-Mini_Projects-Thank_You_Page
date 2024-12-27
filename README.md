@@ -15,7 +15,7 @@ This project is a simple webpage with a thank you message typically used after a
 
 ## Live Demo
 
-[Thank You Page](https://eddking-qs.github.io/CSS-Mini_Projects-Thank_You_Page/)
+[Thank You Page](https://quintin-dev.github.io/CSS-Mini_Projects-Thank_You_Page/)
 
 ## Disclaimer
 
